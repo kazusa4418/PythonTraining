@@ -1,6 +1,6 @@
 # coding=utf-8
 # ファイルを開く
-a_file = open("ReadTester.java", encoding="utf-8")
+a_file = open("ReadTester.txt", encoding="utf-8")
 
 # テキストを読む
 s = a_file.read()
